@@ -1,16 +1,21 @@
-### Hi there 👋
+# <em>Hey!</em> I'm Solomon. 👋🏽
 
 <!--
-**SolomonRosemite/SolomonRosemite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/nickytonline/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:ffffff,g_south_west,x_30,y_280,l_text:roboto_64_bold:Not%20a%20real%20panda/w_860,c_fit,co_rgb:ffffff/social)
 
-Here are some ideas to get you started:
+💻&nbsp;&nbsp;Senior Software Developer [@forem](https://github.com/forem)/[@thepracticaldev](https://github.com/thepracticaldev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎙️&nbsp;&nbsp;Live Coding at [doingdevfordev.com](https://doingdevfordev.com)
+
+🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
+
+🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
+
+📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
+
+<hr />
+
+My name is Nick Taylor. I am a Senior Software Developer at [DEV](https://dev.to) working on all things DEV. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding, and a long long time ago, rugby. I am also not a big fan of spiders.
+
+More about me at [iamdeveloper.com](https://iamdeveloper.com).
 -->
