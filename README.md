@@ -12,3 +12,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/dotnet/dotnet.png"></code>
+
+<details>
+  <summary>Projects I've made</summary>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SolomonRosemite&repo=Angular-LetsChat)](https://github.com/SolomonRosemite/Angular-LetsChat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SolomonRosemite&repo=WPF-ActivityLogger)](https://github.com/SolomonRosemite/WPF-ActivityLogger)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SolomonRosemite&repo=Unity-FutureCube)](https://github.com/SolomonRosemite/Unity-FutureCube)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SolomonRosemite&repo=TypeScript-Todo)](https://github.com/SolomonRosemite/TypeScript-Todo)
+
+</details>
