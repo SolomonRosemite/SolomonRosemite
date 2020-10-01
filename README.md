@@ -3,6 +3,8 @@
   <p>Welcome to my profile, most of my work is private. But I have some public projects here as well.</p>
 </div>
 
+<hr />
+
 ### Tooling
 **Languages and Tools:**  
 
