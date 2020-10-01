@@ -1,21 +1,14 @@
-# <em>Hey!</em> I'm Solomon. 👋🏽
+<div align="center">
+  <h3>What's up! 👋</h3>
+  <p>Welcome to my profile, most of my work is private. But I have some public projects here as well.</p>
+</div>
 
-<!--
-![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/nickytonline/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:ffffff,g_south_west,x_30,y_280,l_text:roboto_64_bold:Not%20a%20real%20panda/w_860,c_fit,co_rgb:ffffff/social)
+### Tooling
+**Languages and Tools:**  
 
-💻&nbsp;&nbsp;Senior Software Developer [@forem](https://github.com/forem)/[@thepracticaldev](https://github.com/thepracticaldev)
-
-🎙️&nbsp;&nbsp;Live Coding at [doingdevfordev.com](https://doingdevfordev.com)
-
-🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
-
-🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
-
-📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
-
-<hr />
-
-My name is Nick Taylor. I am a Senior Software Developer at [DEV](https://dev.to) working on all things DEV. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding, and a long long time ago, rugby. I am also not a big fan of spiders.
-
-More about me at [iamdeveloper.com](https://iamdeveloper.com).
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/dotnet/dotnet.png"></code>
