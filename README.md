@@ -16,7 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/dotnet/dotnet.png"></code>
 
 <details>
-  <summary>Favorite Projects I've made</summary>
+  <summary>Highlighted Projects</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SolomonRosemite&repo=Angular-LetsChat)](https://github.com/SolomonRosemite/Angular-LetsChat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SolomonRosemite&repo=WPF-ActivityLogger)](https://github.com/SolomonRosemite/WPF-ActivityLogger)
