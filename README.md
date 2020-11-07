@@ -15,6 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19ab4d79db929a4d91eacd51b5ecbca4cdf0087f/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19ab4d79db929a4d91eacd51b5ecbca4cdf0087f/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 
 <details>
   <summary>Highlighted Projects</summary>
