@@ -1,5 +1,6 @@
 <div align="center">
   <h3>What's up! 👋</h3>
+  <!-- <p>Welcome to my profile, this is the place where I opensource stuff and break things.</p> -->
   <p>Welcome to my profile, most of my work is private. But I have some public projects here as well.</p>
 </div>
 
@@ -10,16 +11,18 @@
 <!-- ![SolomonRosemite's github stats](https://github-readme-stats.vercel.app/api?username=SolomonRosemite&hide=["issues"]&show_icons=true) -->
 
 ### Tooling
-**Frequently used Languages and Tools:**  
+**Frequently used Tools and Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d32ed601df3037d9ca3578d08ccd7ad9ccad1492/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d32ed601df3037d9ca3578d08ccd7ad9ccad1492/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/725e7aa7246ca38cdd5b175495386687d7e25da0/assets/java.jpg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d32ed601df3037d9ca3578d08ccd7ad9ccad1492/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3dc333811d46c39b8b0b1b903daf12da2ff18b3/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/19ab4d79db929a4d91eacd51b5ecbca4cdf0087f/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/19ab4d79db929a4d91eacd51b5ecbca4cdf0087f/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d32ed601df3037d9ca3578d08ccd7ad9ccad1492/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/725e7aa7246ca38cdd5b175495386687d7e25da0/assets/intellij-idea.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/725e7aa7246ca38cdd5b175495386687d7e25da0/assets/rider.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/dac86a3dbcef735c67c8c7310059ef5b0e156a84/assets/MongoDB.png"></code>
 
 <!-- <details>
   <summary>Highlighted Projects</summary>
