@@ -3,7 +3,7 @@
     <h3>What's up! 👋</h3>
     <!-- <p>Welcome to my profile, this is the place where I opensource stuff and break things.</p> -->
   <div/>
-  <div>
+  <div align="left">
     <p>Welcome to my profile, I'm an software engineering hobbyist passionate for innovative technology and use Github to share my projects.</p>
     <p>Most of these projects are MIT licensed, so feel free to look around and use them as you wish😄</p>
   <div/>
