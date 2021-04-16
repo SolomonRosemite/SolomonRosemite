@@ -27,6 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/725e7aa7246ca38cdd5b175495386687d7e25da0/assets/intellij-idea.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/725e7aa7246ca38cdd5b175495386687d7e25da0/assets/rider.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/SolomonRosemite/SolomonRosemite/dac86a3dbcef735c67c8c7310059ef5b0e156a84/assets/MongoDB.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/db89d80a3e8eb50ce2c0b906dda79cea2c542742/topics/postgresql/postgresql.png"></code>
 
 <!-- <details>
   <summary>Highlighted Projects</summary>
@@ -40,5 +41,4 @@
 
 ### <samp>Contact</samp>
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SolomonRosemite)
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-kanu-agha/)
 - <code>solomonrosemitecontact@gmail.com</code>
